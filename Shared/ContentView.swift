@@ -3,13 +3,13 @@
 //  Shared
 //
 //  Created by Adam Hoffman on 3/24/22.
-//
+//  Dedicated to Asher who taught me how to leap. -Dad
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("A place from which to jump!!")
+        Text("A place from which to jump!!").padding()
     }
 }
 
